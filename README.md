@@ -112,8 +112,6 @@ This trains the RandomForest model, prints evaluation metrics, and saves `src/mo
 streamlit run app.py
 ```
 
-Open [http://localhost:8501](http://localhost:8501) in your browser.
-
 ---
 
 ## 📊 Model Performance
